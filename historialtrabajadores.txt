@@ -1,0 +1,91 @@
+--------------------NUEVO ESTUDIANTE--------------------
+                  2024-05-28 00:02:07
+Nombre: prueba 1
+CURP: XXXXXXX
+Fecha de nacimiento: 1111-11-11
+Sexo: M
+Dirección: xxxxxx
+Número de teléfono: 11111
+Correo electrónico: 1@x
+Fecha de ingreso: 0111-11-11
+Número de seguro social: 111111
+Teléfono de emergencia: 1111
+
+--------------------NUEVO ESTUDIANTE--------------------
+                  2024-05-28 00:36:26
+Nombre: prueba 2
+CURP: XXXXXXX
+Fecha de nacimiento: 1111-11-11
+Sexo: X
+Dirección: xxxxxx
+Número de teléfono: 1111111
+Correo electrónico: x@x
+Fecha de ingreso: 1111-11-11
+Número de seguro social: 111111
+Teléfono de emergencia: 11111
+
+--------------------NUEVO ESTUDIANTE--------------------
+                  2024-05-28 01:22:45
+Nombre: prueba 4
+CURP: X
+Fecha de nacimiento: 1111-11-11
+Sexo: M
+Dirección: xxxxxx
+Número de teléfono: 11111
+Correo electrónico: x@x
+Fecha de ingreso: 1111-11-11
+Número de seguro social: 111111
+Teléfono de emergencia: 11111
+
+--------------------NUEVO ESTUDIANTE--------------------
+                  2024-05-28 18:09:42
+Nombre: prueba 5
+CURP: XXXXXXXXXXXXXXXX
+Fecha de nacimiento: 1995-05-08
+Sexo: M
+Dirección: colomos
+Número de teléfono: 31400000000
+Correo electrónico: prueba5@icloud.com
+Fecha de ingreso: 2024-05-28
+Número de seguro social: 123456789112
+Teléfono de emergencia: 911
+
+--------------------NUEVO ESTUDIANTE--------------------
+                  2024-05-28 19:48:01
+Nombre: prueba 9
+CURP: XXXXXXX
+Fecha de nacimiento: 2222-02-22
+Sexo: M
+Dirección: 2xxxxxxxx
+Número de teléfono: 22222
+Correo electrónico: x@x
+Fecha de ingreso: 0011-11-11
+Número de seguro social: 1111
+Teléfono de emergencia: 911
+
+--------------------NUEVO ESTUDIANTE--------------------
+                  2024-05-28 23:25:39
+Nombre: Carlos Alberto Vives Restrepo
+CURP: JPED060308HCMPGSA6
+Fecha de nacimiento: 1971-08-07
+Sexo: M
+Dirección: 47 Comonfort Cdad. Ixtepec, Oaxaca
+Número de teléfono: 9512256961
+Correo electrónico: cavr1971@gmail.com
+Fecha de ingreso: 2024-05-24
+Número de seguro social: 659889625296
+Teléfono de emergencia: 9516589824
+
+--------------------NUEVO ESTUDIANTE--------------------
+                  2024-05-28 23:44:14
+Nombre: Cynthia Irasema Hernandez Farías
+CURP: 	HEFC061010MCMRRYA7
+Fecha de nacimiento: 2006-10-10
+Sexo: F
+Dirección: 20 de Noviembre, el colomo, COL. 28800
+Número de teléfono: 3143380980
+Correo electrónico: cynthia@icloud.com
+Fecha de ingreso: 2010-03-30
+Número de seguro social: 88964895845
+Teléfono de emergencia: 3143380980
+
